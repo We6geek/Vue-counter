@@ -1,38 +1,25 @@
-# vue-counter
+# Vue Counter - Interactive counter with animations and change history. Responsive Vue.js/CSS.
 
-This template should help get you started developing with Vue 3 in Vite.
+A beautiful and interactive counter application built with Vue.js featuring smooth animations, change history tracking, and modern glass morphism design.
 
-## Recommended IDE Setup
+## Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- ✨ Smooth animations with bounce effects
+- 📊 Change history with timestamps
+- 📱 Fully responsive design
+- 🎨 Vue-themed colors (#42b883, #35495e)
+- 📈 Real-time statistics and trends
+- 🎯 Interactive controls with visual feedback
 
-## Recommended Browser Setup
+## Technologies
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Vue.js 3
+- CSS3 with Glass Morphism
+- Responsive design
+- CSS Animations & Transitions
 
 ## Project Setup
 
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
